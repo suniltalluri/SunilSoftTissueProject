@@ -1,0 +1,46 @@
+.footerPage{
+    background-color: rgb(124, 226, 231);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100vw;
+}
+.CopyRIght{
+    /* color: white; */
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 70px;
+}
+.socialMediaCard{
+    margin-right: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Follow_us_heading{
+    /* color: white; */
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.faceBook{
+    margin-right: 10px;
+    color: blue;
+}
+.FiTwitter{
+    margin-right: 10px;
+    color: rgb(28, 158, 214);
+    /* background-color: rgb(33, 191, 234); */
+}
+.FiYoutube{
+    margin-right: 10px;
+    color: rgb(244, 14, 14);
+}
+.FiInstagram{
+    margin-right: 10px;
+    color: rgb(233, 13, 159);
+}
+.Company_name{
+    font-size: 16px;
+    margin-right: 60px;
+}

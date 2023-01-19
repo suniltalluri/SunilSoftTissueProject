@@ -1,0 +1,31 @@
+.home_page{
+    background-color: rgb(253, 253, 253);
+
+}
+.Landing_container {
+    display: flex;
+  }
+  .Landing_text_card {
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    align-self: center;
+    width: 50vw;
+  }
+  .Home_Heading {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 0px;
+  }
+  .Home_Discount {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    text-decoration: underline;
+  }
+  .Home_img {
+    width: 50vw;
+    height: 70vh;
+    align-self: center;
+  }
+  
